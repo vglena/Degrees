@@ -139,7 +139,7 @@ Name: Meg Ryan
 
 ---
 
-## 🧩 Dependencies
+## 🧩 Dependencies / Requirements
 
 No external libraries are required — only Python’s built-in modules:
 
@@ -147,7 +147,10 @@ No external libraries are required — only Python’s built-in modules:
 * `sys`
 * `collections` (for deque)
 
-Works with **Python 3.8+**
+**Requirements:**
+
+* Python 3.8 or higher
+* CSV dataset files (`people.csv`, `movies.csv`, `stars.csv`) in a folder (`large` or `small`)
 
 ---
 
@@ -231,5 +234,12 @@ This project is based on **CS50’s Introduction to Artificial Intelligence with
 Original specification: [CS50 AI Degrees of Separation](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)
 
 Created and adapted for learning and experimentation purposes.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
